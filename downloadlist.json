@@ -1,12 +1,6 @@
 {
   "version": "1.0.0",
   "files": [
-    "https://github.com/GcstudioX2/Desrosa/releases/download/1.0.0/berkelium.dll",
-    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/avcodec-52.dll",
-    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/avformat-52.dll",
-    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/avutil-50.dll",
-    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/soundbackends/directsound_win32.dll",
-    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/soundbackends/windowsaudiosession_win32.dll",
-    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/bdcap32.dll"
+    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/C1.Zip"
   ]
 }
