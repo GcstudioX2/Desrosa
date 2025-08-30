@@ -1,3 +1,9 @@
+Library = {}
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Parent = not game:GetService("RunService"):IsStudio() and game:GetService("CoreGui") or game:GetService("Players").LocalPlayer.PlayerGui
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
 function Library.Main:CreateDropdown(op)
 			assert(op.Title, "Dropdown Missing Title")
 			assert(op.List, "Dropdown " .. op.Title .. " Missing List")
@@ -1774,4 +1780,5 @@ function Library:CreateWindow(op)
 					move(input)
 				end
 			end)
+
 		end
