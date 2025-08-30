@@ -1568,4 +1568,3 @@ function Library:CreateWindow(op)
 	
 	return Library.Tabs
 end
-
