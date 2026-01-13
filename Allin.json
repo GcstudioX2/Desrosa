@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "files": [
+    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/vcredist2008_x86.zip",
+    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/vcredist2010_x86.zip",
+    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/vcredist2015_2017_2019_2022_x64.zip",
+    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/install_all.zip",
+    "https://github.com/GcstudioX2/Desrosa/raw/refs/heads/main/vcredist2013_x64.zip"
+  ]
+}
